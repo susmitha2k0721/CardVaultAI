@@ -115,7 +115,27 @@ Before saving a contact, the application checks whether the contact already exis
 - PyInstaller
 
 ---
+# Application Screenshots
 
+## Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+## Scan Business Card
+
+![Scanner](screenshots/Scanner.png)
+
+## Contacts Management
+
+![Contacts](screenshots/contacts.png)
+
+## Scan History
+
+![History](screenshots/History.png)
+
+## Settings
+
+![Settings](screenshots/Settings.png)
 # Project Structure
 
 CardVaultAI/
